@@ -15,6 +15,4 @@ For contributors:
 - [Contributing features](https://github.com/arshaw/fullcalendar/wiki/Contributing-Features)
 - [Contributing bugfixes](https://github.com/arshaw/fullcalendar/wiki/Contributing-Bugfixes)
 
-``` javascript
-var s = 'some string';
-```
+
