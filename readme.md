@@ -14,3 +14,5 @@ For contributors:
 - [General coding guidelines](https://github.com/arshaw/fullcalendar/wiki/Contributing-Code)
 - [Contributing features](https://github.com/arshaw/fullcalendar/wiki/Contributing-Features)
 - [Contributing bugfixes](https://github.com/arshaw/fullcalendar/wiki/Contributing-Bugfixes)
+
+-- var s = "some string"; --
